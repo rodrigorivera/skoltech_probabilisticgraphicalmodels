@@ -1,0 +1,1 @@
+'''Implement an algorithm which takes as input the parity-check matrix H returns you the generator matrix G. Assume systematic coding'''
